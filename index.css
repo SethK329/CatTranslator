@@ -21,6 +21,7 @@ body{
     background-image: url("./catCoder.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: right;
     color: black;
     font-size: 1.35rem;
     position: relative;
