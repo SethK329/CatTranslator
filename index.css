@@ -71,3 +71,11 @@ footer{
     color: white;
     font-size: .75rem;
 }
+
+.one{
+    background-color: color(display-p3 1 0 0);
+}
+
+.two{
+    background-color: color(srgb 1 0 0);
+}
