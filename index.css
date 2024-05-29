@@ -66,6 +66,16 @@ button:focus{
     transform: scale(1.05);
     box-shadow: 0 2px 6px black;
 }
+.translation{
+    border-radius: 10px;
+}
+.emoji{
+    position: absolute;
+    top: 550px;
+    font-size: 4rem;
+    border-radius: 50%;
+    user-select: none;
+}
 
 footer{
     position:absolute;
